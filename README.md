@@ -1,4 +1,3 @@
-<img src="banner.png" alt="banner" style="width:100%;"/>
 
 # 👋 Hello World, I'm Dinesh Vankam! 💻
 
