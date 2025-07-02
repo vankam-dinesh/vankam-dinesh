@@ -20,7 +20,7 @@
 - 🔐 Cyber Security fundamentals
 - 📚 Competitive Programming 
 
----
+
 
 ## 💬 Ask Me About
 - Python, HTML/CSS/JS, C++
