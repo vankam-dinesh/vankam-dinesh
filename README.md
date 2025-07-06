@@ -1,7 +1,6 @@
 
 
-# 👋![image](https://github.com/user-attachments/assets/889bfac7-9dc6-46d3-bbcc-47dbcbb18113)
- Hello World, I'm Dinesh Vankam! 💻
+# 👋 Hello World, I'm Dinesh Vankam! 💻
 
 🚀 Passionate learner | 💡 Problem Solver | 🌐 Tech Explorer  
 
