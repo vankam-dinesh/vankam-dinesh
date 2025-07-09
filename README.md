@@ -26,7 +26,7 @@
 - Web development tools & tricks
 - Resume building and learning roadmaps
 
----
+---                   
 
 ## 🌟 Fun Facts
 - 🎯 I believe in "Try again. Fail again. Try better."
