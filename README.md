@@ -11,7 +11,7 @@
 - 🧠 I love exploring **Data Structures**, **Web Technologies**
 - 🛠️ Always building mini-projects to sharpen my coding skills
 - 🏆 Participating in hackathons, virtual internships & open-source contributions 
-
+                     
 ---
  
 ## 🌱 Currently Learning
