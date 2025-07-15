@@ -52,5 +52,5 @@ I'm a night owl coder! 🦉💻
 I'm a night owl coder! 🦉💻
 
 <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/Screenshot%202025-07-15%20084853.png" width="400"/>
-" width="400"/>
+
 
