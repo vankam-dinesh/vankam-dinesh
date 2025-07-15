@@ -38,7 +38,7 @@
 ## 📫 Connect with Me
 - 💼 LinkedIn: [https://www.linkedin.com/in/dinesh-vankam-a7630b354/]
 - 📧 Email: dineshvankam17@gmail.com
-- <img src="https://github.com/vankam-dinesh/vankam-dinesh/blob/main/html.png?raw=true" width="200"/>
+- <img src="https://github.com/vankam-dinesh/vankam-dinesh/blob/main/html.png?raw=true" width="50"/>
         
 ---               
 🔁 *Always learning. Always building. Always  leveling up.* 🔁
