@@ -51,7 +51,6 @@
   <img src="https://github.com/vankam-dinesh/vankam-dinesh/blob/main/sql.png?raw=true" width="50"/>
   <img src="https://github.com/vankam-dinesh/vankam-dinesh/blob/main/vs.png?raw=true" width="50"/>
   <img src="https://github.com/vankam-dinesh/vankam-dinesh/blob/main/git.png?raw=true" width="50"/>
-   <img src=" <img src="https://github.com/vankam-dinesh/vankam-dinesh/blob/main/git.png?raw=true" width="50"/>
    <img src="https://github.com/vankam-dinesh/vankam-dinesh/blob/main/django.jpg?raw=true" width="50"/>
     <img src="https://github.com/vankam-dinesh/vankam-dinesh/blob/main/bootstrap.png?raw=true" width="50"/>
         
