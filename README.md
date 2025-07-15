@@ -51,6 +51,6 @@ I'm a night owl coder! 🦉💻
 
 I'm a night owl coder! 🦉💻
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/Screenshot%202025-07-15%20084853.png" width="400"/>
+<img src="https://github.com/vankam-dinesh/vankam-dinesh/blob/main/Night-Coding.gif?raw=true" width="400"/>
 
 
