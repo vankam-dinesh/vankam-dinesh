@@ -38,6 +38,12 @@
 ## 📫 Connect with Me
 - 💼 LinkedIn: [https://www.linkedin.com/in/dinesh-vankam-a7630b354/]
 - 📧 Email: dineshvankam17@gmail.com
+
+----
+💡 Skills:
+    🔹 HTML — Semantic & SEO-friendly structure
+    🔹 CSS — Responsive layouts, Flexbox, Grid, Animations
+    🔹 JavaScript — DOM Manipulation, Event Handling, ES6+
 - <img src="https://github.com/vankam-dinesh/vankam-dinesh/blob/main/html.png?raw=true" width="50"/>
         
 ---               
