@@ -41,15 +41,7 @@
         
 ---               
 🔁 *Always learning. Always building. Always  leveling up.* 🔁
- vs.png
 
- ## About Me
-
-I'm a night owl coder! 🦉💻
-
-<img src="## About Me
-
-I'm a night owl coder! 🦉💻
 
 <img src="https://github.com/vankam-dinesh/vankam-dinesh/blob/main/Night-Coding.gif?raw=true" width="400"/>
 
