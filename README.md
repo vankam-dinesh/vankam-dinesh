@@ -29,7 +29,7 @@
 ---                   
 
 ## 🌟 Fun Facts
-- 🎯 I believe in "Try again. Fail again. Try better."
+- 🎯 I believe in "Try again. Fail again. Try better.
 - 🧩 Learning by doing is my secret to understanding tech deeply
 - 🤝 I love collaborating on cool coding projects or student communities
    
@@ -42,7 +42,7 @@
 ----
 💡 Skills:
     🔹 HTML — Semantic & SEO-friendly structure<br>
-    🔹 CSS — Responsive layouts, Flexbox, Grid, Animations
+    🔹 CSS — Responsive layouts, Flexbox, Grid, Animations<br>
     🔹 JavaScript — DOM Manipulation, Event Handling, ES6+
 - <img src="https://github.com/vankam-dinesh/vankam-dinesh/blob/main/html.png?raw=true" width="50"/>
   <img src="https://github.com/vankam-dinesh/vankam-dinesh/blob/main/css.png" width="50"/>
