@@ -41,7 +41,7 @@
 
 ----
 💡 Skills:
-    🔹 HTML — Semantic & SEO-friendly structure
+    🔹 HTML — Semantic & SEO-friendly structure<br>
     🔹 CSS — Responsive layouts, Flexbox, Grid, Animations
     🔹 JavaScript — DOM Manipulation, Event Handling, ES6+
 - <img src="https://github.com/vankam-dinesh/vankam-dinesh/blob/main/html.png?raw=true" width="50"/>
