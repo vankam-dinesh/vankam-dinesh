@@ -23,7 +23,7 @@
 
 ## 💬 Ask Me About
 - Python, HTML/CSS/JS, C++
-- Web development tools & tricks
+- Web development tools & tricks                    
 - Resume building and learning roadmaps
 
 ---                   
