@@ -15,8 +15,8 @@
 ---
                           
 ## 🌱 Currently Learning   
-- 🔧 Node.js, React, MongoDB (MERN Stack)             
-- ☁️ AWS Cloud & Docker basics  
+- 🔧 Node.js, React, MongoDB            
+- ☁️ AWS Cloud & Docker basics                        
 - 📚 Competitive Programming                                                 
 
    
