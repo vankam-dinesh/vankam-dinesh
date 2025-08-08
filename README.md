@@ -14,7 +14,7 @@
                                                                                                             
 ---
                           
-## 🌱 Currently Learning   
+## 🌱 Currently Learning                       
 - 🔧 Node.js, React, MongoDB            
 - ☁️ AWS Cloud & Docker basics                        
 - 📚 Competitive Programming                                                 
