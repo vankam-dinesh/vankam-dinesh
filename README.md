@@ -22,7 +22,7 @@
    
 
 ## 💬 Ask Me About
-- Java, HTML/CSS/JS, C++
+- Java, HTML/CSS/JS
 - Web development tools & tricks                    
 - Resume building and learning roadmaps
 
