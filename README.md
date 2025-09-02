@@ -32,7 +32,7 @@
 - 🎯 I believe in "Try again. Fail again. Try better.
 - 🧩 Learning by doing is my secret to understanding tech deeply
 - 🤝 I love collaborating on cool coding projects or student communities
-   
+     
 ---
 
 ## 📫 Connect with Me
