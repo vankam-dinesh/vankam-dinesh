@@ -12,7 +12,7 @@
 - 🛠️ Always building mini-projects to sharpen my coding skills                     
 - 🏆 Participating in hackathons, virtual internships & open-source contributions 
                                                                                                             
----
+---             
                           
 ## 🌱 Currently Learning                       
 - 🔧 Node.js, React, MongoDB            
