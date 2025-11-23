@@ -13,7 +13,7 @@
 🌱 Currently Learning
 ☕ Java Full Stack Development (Core Java → JDBC → Servlets → Spring Boot → Hibernate → SQL → Angular/React)
 
-🔧 Node.js, React, MongoDB
+🔧  React, MongoDB
 
 ☁️ AWS Cloud & Docker basics
 
