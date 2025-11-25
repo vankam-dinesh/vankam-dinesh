@@ -37,8 +37,7 @@ Resume building & learning roadmaps
 💼 LinkedIn: https://www.linkedin.com/in/dinesh-vankam-a7630b354/
 
 📧 Email: dineshvankam17@gmail.com
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vankam-dinesh&layout=compact&theme=radical)
+![Dinesh's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vankam-dinesh&show_icons=true&theme=radical)
 
 💡 Skills
 🔹 HTML — Semantic & SEO-friendly structure
