@@ -40,10 +40,11 @@ Resume building & learning roadmaps
 
 
 
-💡 Skills
+💡 Skills<br>
 🔹 HTML — Semantic & SEO-friendly structure<br>
 🔹 CSS — Responsive layouts (Flexbox, Grid, Animations)<br>
 🔹 JavaScript — DOM Manipulation, Event Handling, ES6+<br>
+🔹 Python — OpenCV, NumPy, Pandas, Scripting, Automation  
 🔹 Java — OOP, JDBC, Servlets, Spring Boot<br>
 🔹 SQL — Queries, Joins, CRUD, DB Design<br>
   -<img src="https://github.com/vankam-dinesh/vankam-dinesh/blob/main/html.png?raw=true" width="50"/>
