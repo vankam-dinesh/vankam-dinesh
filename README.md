@@ -10,6 +10,9 @@
 
 🏆 Active in hackathons, virtual internships & open-source contributions
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
 🌱 Currently Learning
 ☕ Java Full Stack Development (Core Java → JDBC → Servlets → Spring Boot → Hibernate → SQL → Angular/React)
 
