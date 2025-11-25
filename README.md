@@ -38,7 +38,7 @@ Resume building & learning roadmaps
 
 📧 Email: dineshvankam17@gmail.com
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vankam-dinesh&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vankam-dinesh&layout=compact&theme=radical)
 
 💡 Skills
 🔹 HTML — Semantic & SEO-friendly structure
