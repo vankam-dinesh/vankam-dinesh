@@ -39,15 +39,13 @@ Resume building & learning roadmaps
 📧 Email: dineshvankam17@gmail.com
 
 
-![Dinesh's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vankam-dinesh&show_icons=true&theme=radical)
-
 
 💡 Skills
-🔹 HTML — Semantic & SEO-friendly structure
-🔹 CSS — Responsive layouts (Flexbox, Grid, Animations)
-🔹 JavaScript — DOM Manipulation, Event Handling, ES6+
-🔹 Java — OOP, JDBC, Servlets, Spring Boot
-🔹 SQL — Queries, Joins, CRUD, DB Design
+🔹 HTML — Semantic & SEO-friendly structure<br>
+🔹 CSS — Responsive layouts (Flexbox, Grid, Animations)<br>
+🔹 JavaScript — DOM Manipulation, Event Handling, ES6+<br>
+🔹 Java — OOP, JDBC, Servlets, Spring Boot<br>
+🔹 SQL — Queries, Joins, CRUD, DB Design<br>
   -<img src="https://github.com/vankam-dinesh/vankam-dinesh/blob/main/html.png?raw=true" width="50"/>
   <img src="https://github.com/vankam-dinesh/vankam-dinesh/blob/main/css.png" width="50"/>
   <img src="https://github.com/vankam-dinesh/vankam-dinesh/blob/main/python.jpg?raw=true" width="50"/>
@@ -56,6 +54,9 @@ Resume building & learning roadmaps
   <img src="https://github.com/vankam-dinesh/vankam-dinesh/blob/main/vs.png?raw=true" width="50"/>
   <img src="https://github.com/vankam-dinesh/vankam-dinesh/blob/main/git.png?raw=true" width="50"/>
     <img src="https://github.com/vankam-dinesh/vankam-dinesh/blob/main/bootstrap.png?raw=true" width="50"/>
+
+
+
             
 ---               
 🔁 *Always learning. Always building. Always  leveling up.* 🔁                          
