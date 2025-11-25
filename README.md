@@ -10,8 +10,6 @@
 
 🏆 Active in hackathons, virtual internships & open-source contributions
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 
@@ -25,7 +23,8 @@
 
 📚 Competitive Programming
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 💬 Ask Me About
 Java, HTML/CSS/JS
@@ -34,7 +33,7 @@ Web development tools & tricks
 
 Resume building & learning roadmaps
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 🌟 Fun Facts
 🎯 I believe in "Try again. Fail again. Try better."
@@ -43,14 +42,16 @@ Resume building & learning roadmaps
 
 🤝 I love collaborating on cool coding projects & student communities
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 📫 Connect with Me
 💼 LinkedIn: https://www.linkedin.com/in/dinesh-vankam-a7630b354/
 
 📧 Email: dineshvankam17@gmail.com
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 
 
@@ -62,7 +63,9 @@ Resume building & learning roadmaps
 🔹 Java — OOP, JDBC, Servlets, Spring Boot<br>
 🔹 SQL — Queries, Joins, CRUD, DB Design<br>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
   -<img src="https://github.com/vankam-dinesh/vankam-dinesh/blob/main/html.png?raw=true" width="50"/>
   <img src="https://github.com/vankam-dinesh/vankam-dinesh/blob/main/css.png" width="50"/>
   <img src="https://github.com/vankam-dinesh/vankam-dinesh/blob/main/python.jpg?raw=true" width="50"/>
@@ -74,6 +77,7 @@ Resume building & learning roadmaps
 
 
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
             
 ---               
 🔁 *Always learning. Always building. Always  leveling up.* 🔁                          
