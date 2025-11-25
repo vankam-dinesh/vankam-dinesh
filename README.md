@@ -23,12 +23,16 @@
 
 📚 Competitive Programming
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 💬 Ask Me About
 Java, HTML/CSS/JS
 
 Web development tools & tricks
 
 Resume building & learning roadmaps
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🌟 Fun Facts
 🎯 I believe in "Try again. Fail again. Try better."
@@ -37,10 +41,14 @@ Resume building & learning roadmaps
 
 🤝 I love collaborating on cool coding projects & student communities
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 📫 Connect with Me
 💼 LinkedIn: https://www.linkedin.com/in/dinesh-vankam-a7630b354/
 
 📧 Email: dineshvankam17@gmail.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
 
@@ -51,6 +59,8 @@ Resume building & learning roadmaps
 🔹 Python — OpenCV, NumPy, Pandas, Scripting, Automation  
 🔹 Java — OOP, JDBC, Servlets, Spring Boot<br>
 🔹 SQL — Queries, Joins, CRUD, DB Design<br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   -<img src="https://github.com/vankam-dinesh/vankam-dinesh/blob/main/html.png?raw=true" width="50"/>
   <img src="https://github.com/vankam-dinesh/vankam-dinesh/blob/main/css.png" width="50"/>
   <img src="https://github.com/vankam-dinesh/vankam-dinesh/blob/main/python.jpg?raw=true" width="50"/>
