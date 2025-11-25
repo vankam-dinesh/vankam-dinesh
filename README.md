@@ -78,8 +78,7 @@ Resume building & learning roadmaps
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-            
----               
+                       
 🔁 *Always learning. Always building. Always  leveling up.* 🔁                          
 
 <img src="https://github.com/vankam-dinesh/vankam-dinesh/blob/main/Night-Coding.gif?raw=true" width="400"/>
