@@ -28,7 +28,7 @@ Python Full Stack Development (Python → Django/Flask → REST APIs → SQLite/
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 💬 Ask Me About
-Java, HTML/CSS/JS
+Python, HTML/CSS/JS
 
 Web development tools & tricks
 
