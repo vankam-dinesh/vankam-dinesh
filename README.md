@@ -124,16 +124,12 @@ Resume building & learning roadmaps
 
 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vankam-dinesh&theme=github-compact&area=true)
-
 
 
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=vankam-dinesh&bg_color=0d1117&color=58a6ff&line=f778ba&point=ffffff)
 
 
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=vankam-dinesh&theme=onedark&row=1&no-frame=true)
 
 
 
