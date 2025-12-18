@@ -76,12 +76,6 @@ Resume building & learning roadmaps
     <img src="https://github.com/vankam-dinesh/vankam-dinesh/blob/main/bootstrap.png?raw=true" width="50"/>
 
 
-
-    ![Stats](https://github-readme-stats.vercel.app/api?username=vankam-dinesh&show_icons=true&theme=tokyonight) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vankam-dinesh&layout=compact&theme=tokyonight) |
-
-
-
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
                        
 🔁 *Always learning. Always building. Always  leveling up.* 🔁                          
