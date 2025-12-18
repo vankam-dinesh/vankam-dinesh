@@ -145,14 +145,11 @@ Resume building & learning roadmaps
 
 
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,flask,django,aws,docker,mysql" />
-</p>
 
 
 
 
-![3D Graph](https://github.com/yoshi389111/github-profile-3d-contrib/raw/main/profile-3d-contrib/profile-night-rainbow.svg)
+
 
 
 
