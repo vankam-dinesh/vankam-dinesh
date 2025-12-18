@@ -94,7 +94,6 @@ Resume building & learning roadmaps
 
 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vankam-dinesh&theme=react-dark&hide_border=true)
 
 
 
