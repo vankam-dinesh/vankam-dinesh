@@ -97,9 +97,4 @@ Resume building & learning roadmaps
 ![Trophies](https://github-profile-trophy.vercel.app/?username=vankam-dinesh&theme=tokyonight&row=1&margin-w=15)
 
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vankam-dinesh&theme=tokyonight&no-frame=true&row=1&column=6)
-
-
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vankam-dinesh&theme=darkhub&no-bg=true&margin-w=15)
 
