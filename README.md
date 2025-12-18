@@ -112,4 +112,48 @@ Resume building & learning roadmaps
 
 
 
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vankam-dinesh&theme=tokyonight)
+
+
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vankam-dinesh&theme=tokyonight)
+
+
+
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vankam-dinesh&theme=tokyonight)
+
+
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vankam-dinesh&theme=github-compact&area=true)
+
+
+
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=vankam-dinesh&bg_color=0d1117&color=58a6ff&line=f778ba&point=ffffff)
+
+
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=vankam-dinesh&theme=onedark&row=1&no-frame=true)
+
+
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=vankam-dinesh&theme=algolia&column=3)
+
+
+
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight)
+
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,flask,django,aws,docker,mysql" />
+</p>
+
+
+
+
+![3D Graph](https://github.com/yoshi389111/github-profile-3d-contrib/raw/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+
+
 
