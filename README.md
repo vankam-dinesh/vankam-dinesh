@@ -102,3 +102,26 @@ Resume building & learning roadmaps
 
 
 
+![Profile Card](https://github-readme-stats.vercel.app/api?username=vankam-dinesh&show_icons=true&theme=radical&hide_border=true)
+
+
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vankam-dinesh&theme=react-dark&hide_border=true)
+
+
+
+
+| Stats | Languages |
+|------|-----------|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=vankam-dinesh&show_icons=true&theme=radical) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vankam-dinesh&layout=compact&theme=radical) |
+
+
+
+
+
+![Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+
+
+
+
