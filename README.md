@@ -137,14 +137,6 @@ Resume building & learning roadmaps
 
 
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=vankam-dinesh&theme=algolia&column=3)
-
-
-
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight)
-
-
-
 
 
 
