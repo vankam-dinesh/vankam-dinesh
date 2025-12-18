@@ -25,7 +25,6 @@ Python Full Stack Development (Python → Django/Flask → REST APIs → SQLite/
 📚 Competitive Programming
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 💬 Ask Me About
 Python, HTML/CSS/JS
@@ -89,5 +88,5 @@ Resume building & learning roadmaps
 
 <img src="https://github.com/vankam-dinesh/vankam-dinesh/blob/main/Night-Coding.gif?raw=true" width="400"/>
 
-
+![Stats](https://github-readme-stats.vercel.app/api?username=vankam-dinesh&show_icons=true&theme=tokyonight) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vankam-dinesh&layout=compact&theme=tokyonight) |
 
