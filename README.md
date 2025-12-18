@@ -87,11 +87,7 @@ Resume building & learning roadmaps
 ![Stats](https://github-readme-stats.vercel.app/api?username=vankam-dinesh&show_icons=true&theme=tokyonight) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vankam-dinesh&layout=compact&theme=tokyonight) |
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=vankam-dinesh&theme=tokyonight)
 
 
-
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=vankam-dinesh&theme=tokyonight)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vankam-dinesh&theme=tokyonight)
 
