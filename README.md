@@ -89,12 +89,6 @@ Resume building & learning roadmaps
 
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vankam-dinesh&theme=tokyonight)
-
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vankam-dinesh&theme=tokyonight)
-
 
 
 
