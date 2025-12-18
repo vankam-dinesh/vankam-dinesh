@@ -16,10 +16,15 @@
 🌱 Currently Learning<br>
 
 🤖 AI & Machine Learning  
-🧠 Deep Learning (CNNs, Transfer Learning)  
+
+🧠 Deep Learning (CNNs, Transfer Learning) 
+
 👁 Computer Vision (OpenCV, Image Processing)  
+
 📊 Data Science (NumPy, Pandas, Visualization)  
-☁ Model Deployment (Flask, Docker, AWS Basics)  
+
+☁ Model Deployment (Flask, Docker, AWS Basics)
+
 📚 DSA & Competitive Programming
 
 💬 Ask Me About
