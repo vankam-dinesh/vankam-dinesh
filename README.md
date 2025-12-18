@@ -13,18 +13,14 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 
-
 🌱 Currently Learning<br>
 
-Python Full Stack Development (Python → Django/Flask → REST APIs → SQLite/MySQL → HTML/CSS/JS → React/Angular → Deployment)
-
-🔧  React, MongoDB
-
-☁️ AWS Cloud & Docker basics
-
-📚 Competitive Programming
-
-
+🤖 AI & Machine Learning  
+🧠 Deep Learning (CNNs, Transfer Learning)  
+👁 Computer Vision (OpenCV, Image Processing)  
+📊 Data Science (NumPy, Pandas, Visualization)  
+☁ Model Deployment (Flask, Docker, AWS Basics)  
+📚 DSA & Competitive Programming
 
 💬 Ask Me About
 Python, HTML/CSS/JS
