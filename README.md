@@ -93,10 +93,12 @@ Resume building & learning roadmaps
 
 
 
-## 📈 GitHub Metrics
+
+
+
+
+## 📊 GitHub Metrics
 ![Metrics](https://metrics.lecoq.io/vankam-dinesh?template=classic&isocalendar=1&languages=1&activity=1&base=header%2Crepositories)
-
-
 
 
 
