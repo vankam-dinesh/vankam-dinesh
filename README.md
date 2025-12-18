@@ -84,18 +84,6 @@ Resume building & learning roadmaps
 
 <img src="https://github.com/vankam-dinesh/vankam-dinesh/blob/main/Night-Coding.gif?raw=true" width="400"/>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=vankam-dinesh&show_icons=true&theme=tokyonight) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vankam-dinesh&layout=compact&theme=tokyonight) |
-
-
-
-
-![Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
-
-
-
-
-
 
 ## 📊 GitHub Metrics
 ![Metrics](https://metrics.lecoq.io/vankam-dinesh?template=classic&isocalendar=1&languages=1&activity=1&base=header%2Crepositories)
