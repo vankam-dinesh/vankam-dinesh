@@ -8,7 +8,7 @@
 🧠 Love exploring Data Structures, Web Technologies, and Backend Logic                   
   
 🛠️ Building mini-projects to sharpen my coding skills  
-
+                                                                                     
 🏆 Active in hackathons, virtual internships & open-source contributions
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
