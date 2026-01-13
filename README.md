@@ -85,8 +85,6 @@ Resume building & learning roadmaps
 <img src="https://github.com/vankam-dinesh/vankam-dinesh/blob/main/Night-Coding.gif?raw=true" width="400"/>
 
 
-![Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
 
 
 
