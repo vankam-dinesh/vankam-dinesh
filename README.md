@@ -85,10 +85,6 @@ Resume building & learning roadmaps
 <img src="https://github.com/vankam-dinesh/vankam-dinesh/blob/main/Night-Coding.gif?raw=true" width="400"/>
 
 
-## 📊 GitHub Metrics
-![Metrics](https://metrics.lecoq.io/vankam-dinesh?template=classic&isocalendar=1&languages=1&activity=1&base=header%2Crepositories)
-
-
 
 | Stats | Languages |
 |------|-----------|
