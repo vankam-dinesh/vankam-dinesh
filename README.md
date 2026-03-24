@@ -17,7 +17,7 @@
                                                                
 🌱 Currently Learning<br>
 
-🤖 AI & Machine Learning  
+🤖 AI & Machine Learning                                       
 
 🧠 Deep Learning (CNNs, Transfer Learning) 
 
