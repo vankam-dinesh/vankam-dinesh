@@ -7,7 +7,7 @@
 👨‍🎓 Aspiring Full Stack Developer                                                                                                                                                       
                                                                                              
 🧠 Love exploring Data Structures, Web Technologies, and Backend Logic                                  
-                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                               
 🛠️ Building mini-projects to sharpen my coding skills                                     
                                                                                      
 🏆 Active in hackathons, virtual internships & open-source contributions
