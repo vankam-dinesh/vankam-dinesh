@@ -6,7 +6,7 @@
                                                                                                                                                                         
 👨‍🎓 Aspiring Full Stack Developer                                                                                                                                                                                                                                                                
                                                                                                                                      
-🧠 Love exploring Data Structures, Web Technologies, and Backend Logic                                  
+🧠 Love exploring Data Structures, Web Technologies, and Backend Logic                                                      
                                                                                                                                                                                                                                                                                                                                                                
 🛠️ Building mini-projects to sharpen my coding skills                                     
                                                                                      
