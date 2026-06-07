@@ -1,71 +1,113 @@
-👋 Hello World, I'm Dinesh Vankam! 💻        
+Hello World, I'm Dinesh Vankam! 💻
 
-🚀 Passionate Learner | 💡 Problem Solver | 🌐 Tech Explorer                                                                                                                                                                                                                                        
-                                                                                                                                                                                                                                                                                                                                     
-👨‍💻 About Me                                                                                                                                                                                                                                                                                                                 
-                                                                                                                                                                        
-👨‍🎓 Aspiring Full Stack Developer                                                                                                                                                                                                                                                                
-                                                                                                                                     
-🧠 Love exploring Data Structures, Web Technologies, and Backend Logic                                                      
-                                                                                                                                                                                                                                                                                                                                                               
-🛠️ Building mini-projects to sharpen my coding skills                                     
-                                                                                     
-🏆 Active in hackathons, virtual internships & open-source contributions
+🚀 Java Full Stack Developer | Problem Solver | Tech Enthusiast
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+👨‍💻 Passionate about building scalable web applications and continuously improving my development skills.
 
-                                                               
-🌱 Currently Learning<br>
+👨‍💻 About Me
 
-🤖 AI & Machine Learning                                       
+🎓 Aspiring Java Full Stack Developer
 
-🧠 Deep Learning (CNNs, Transfer Learning) 
+☕ Strong interest in Java, Spring Boot, Web Technologies, and Database Management
 
-👁 Computer Vision (OpenCV, Image Processing)  
+🧠 Love solving Data Structures & Algorithms problems
 
-📊 Data Science (NumPy, Pandas, Visualization)  
+🛠️ Building real-world projects to strengthen my development skills
 
-☁ Model Deployment (Flask, Docker, AWS Basics)
+🏆 Active in hackathons, virtual internships, and coding challenges
 
-📚 DSA & Competitive Programming
+🌱 Currently Learning
+
+☕ Advanced Java
+
+🌿 Spring Boot & Spring Framework
+
+🗄️ MySQL & Database Design
+
+⚛️ React.js
+
+🔗 REST APIs & Microservices
+
+☁️ AWS Cloud Fundamentals
+
+📚 Data Structures & Algorithms
+
+🚀 Software Development Best Practices
 
 💬 Ask Me About
-Python, HTML/CSS/JS
-
-Web development tools & tricks
-
-Resume building & learning roadmaps
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
+Java & Object-Oriented Programming
+Spring Boot Development
+Frontend Development (HTML, CSS, JavaScript)
+Database Design & SQL
+Full Stack Development
+Resume Building & Learning Roadmaps
 🌟 Fun Facts
+
 🎯 I believe in "Try again. Fail again. Try better."
 
-🧩 Learning by doing is my secret to understanding tech deeply                                                                    
+🧩 Learning by building projects is my favorite way to grow
 
-🤝 I love collaborating on cool coding projects & student communities
-
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+🤝 I enjoy collaborating on development projects and student communities
 
 📫 Connect with Me
+
 💼 LinkedIn: https://www.linkedin.com/in/dinesh-vankam-a7630b354/
 
 📧 Email: dineshvankam17@gmail.com
 
+💡 Skills
+Frontend
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+🔹 HTML5
+🔹 CSS3
+🔹 Bootstrap
+🔹 JavaScript (ES6+)
+🔹 React.js
 
+Backend
 
+🔹 Java
+🔹 JDBC
+🔹 Servlets
+🔹 JSP
+🔹 Spring Boot
+🔹 REST APIs
 
-💡 Skills<br>
-🔹 HTML — Semantic & SEO-friendly structure<br>
-🔹 CSS — Responsive layouts (Flexbox, Grid, Animations)<br>
-🔹 JavaScript — DOM Manipulation, Event Handling, ES6+<br>
-🔹 Python — OpenCV, NumPy, Pandas, Scripting, Automation  
-🔹 Java — OOP, JDBC, Servlets, Spring Boot<br>
-🔹 SQL — Queries, Joins, CRUD, DB Design<br>
+Database
 
+🔹 MySQL
+🔹 SQL Queries
+🔹 Joins & CRUD Operations
+
+Tools & Technologies
+
+🔹 Git & GitHub
+🔹 VS Code
+🔹 Eclipse IDE
+🔹 Postman
+🔹 Maven
+
+Core Concepts
+
+🔹 Object-Oriented Programming (OOP)
+🔹 Data Structures & Algorithms
+🔹 DBMS
+🔹 Operating Systems
+🔹 Computer Networks
+
+🚀 Projects
+
+📌 Library Management System
+
+📌 Hotel Booking System
+
+📌 Flight Booking System
+
+📌 College Event Management System
+
+📌 E-Commerce Website
+
+📌 Personal Portfolio Website
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
