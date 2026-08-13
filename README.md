@@ -4,7 +4,7 @@
 🧠 Passionate about building intelligent systems, solving real-world problems with Machine Learning, and developing AI-powered applications.
 
 ---
-                                                                                                                                                                          
+                                                                                                                                                                                          
 ## 👨‍💻 About Me
 
 🎓 Computer Science & Engineering graduate with a strong interest in **Artificial Intelligence and Machine Learning**.
