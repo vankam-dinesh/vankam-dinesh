@@ -6,7 +6,7 @@
 ---                                                                                            
                                                                                                                                                                                                                                             
 ## 👨‍💻 About Me
-
+                                                      
 🎓 Computer Science & Engineering graduate with a strong interest in **Artificial Intelligence and Machine Learning**.
 
 🤖 Passionate about developing **Machine Learning, Deep Learning, and Computer Vision solutions** using Python.
