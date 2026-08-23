@@ -5,7 +5,7 @@
 
 ---                                                                                                                                            
                                                                                                                                                                                                                                                                                                                                                                         
-## 👨‍💻 About Me
+## 👨‍💻 About Me                                                                                           
                                                       
 🎓 Computer Science & Engineering graduate with a strong interest in **Artificial Intelligence and Machine Learning**.
 
